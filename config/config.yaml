@@ -51,11 +51,10 @@ scoring:
     enabled: true
     description: |
       我现在重点关注下面的研究方向：
-      1）基于场景图（Scene Graph）的场景图像分类      
-      2）场景图生成（Scene Graph Generation，SGG）
-      3）视觉语言大模型（VLM）在土地利用分类中的应用
-      4）基于视觉语言大模型的场景图生成
-      5）图神经网络在图像分类中的应用
+      1）地质历史时期的古环境、生产力、碳-氮-硫循环     
+      2）大模型、大数据、机器学习、数据同化在地质领域的应用
+      3）研究人员“刘勇胜”的关联研究
+      
     max_documents: 500  # Max documents for FAISS recall (Voyage limit: 1000, DashScope: 500)
     top_k_interest: 5  # Final interest-based papers count
 

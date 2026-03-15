@@ -53,7 +53,7 @@ scoring:
       我现在重点关注下面的研究方向：
       1）地质历史时期的古环境、生产力、碳-氮-硫循环     
       2）大模型、大数据、机器学习、数据同化在地质领域的应用
-      3）研究人员“刘勇胜”的关联研究
+
       
     max_documents: 500  # Max documents for FAISS recall (Voyage limit: 1000, DashScope: 500)
     top_k_interest: 5  # Final interest-based papers count
